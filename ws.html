@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trackmania Maps</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-slate-950 text-white font-sans">
+
+<header class="border-b border-slate-800">
+<div class="max-w-7xl mx-auto px-8 py-4 flex items-center gap-3">
+
+<h1 class="text-xl font-bold tracking-wide">
+<a href="index.html" class="hover:text-green-400 transition">
+Leo`s Punch Ditchfest Maps
+</a>
+</h1>
+
+</div>
+</header>
+
+<div id="maps"></div>
+
+<footer class="border-t border-slate-800 mt-20">
+<div class="max-w-7xl mx-auto px-8 py-8 text-slate-400 text-sm flex justify-between">
+<p>© Leo`s Punch</p>
+</div>
+</footer>
+
+<script>
+
+const maps = [
+  { tmx:280708, uid:"jxoqsle8GrVnzuAuPizAd69Hrn5", name:"2 - Castle Simulation" },
+  { tmx:280714, uid:"DSwL0QwrWwrhYzyGBqnYUJrcok4", name:"2 - Castle's Pass" },
+  { tmx:280715, uid:"Dd7mo2_zCVRRMJ0jEPP6a3FS5_c", name:"1 - Save Our Cows" },
+  { tmx:280718, uid:"YR4eImvTmLNPHA38xDwIoANsdz3", name:"2 - Foggy Cycling (ft Baogab)" },
+  { tmx:280719, uid:"xfVP8s75q1eLRX5vL2wDQGhyUUd", name:"1 - SPOOKY PUMPKINS" },
+  { tmx:280721, uid:"_HYKs2jNHoxxZ2IotnFfPco0Bwe", name:"4 - Lime Matcha" }
+];
+
+maps.sort((a,b) => b.tmx - a.tmx);
+
+const container = document.getElementById("maps");
+
+maps.forEach((map,index)=>{
+
+  const reversed = index % 2 === 1;
+
+  let subtitle = "Trackmania map";
+
+  if(map.name.startsWith("DF")){
+    subtitle = "ditchfest";
+  }
+
+  const text = `
+  <div>
+
+  <h2 class="text-5xl font-bold mb-6">
+  ${map.name}
+  </h2>
+
+  <p class="text-slate-400 text-lg mb-10">
+  ${subtitle}
+  </p>
+
+  <div class="flex gap-4">
+
+  <a href="https://trackmania.exchange/mapshow/${map.tmx}"
+  class="bg-green-500 hover:bg-green-400 text-black font-semibold px-6 py-3 rounded-lg shadow-lg">
+  tmx
+  </a>
+
+  <a href="https://trackmania.io/#/leaderboard/${map.uid}"
+  class="bg-blue-500 hover:bg-blue-400 text-black font-semibold px-6 py-3 rounded-lg">
+  tm.io
+  </a>
+
+  <a href="https://trackmania.exchange/mapgbx/${map.tmx}"
+  class="border border-slate-600 hover:border-white px-6 py-3 rounded-lg">
+  download
+  </a>
+
+  </div>
+
+  </div>
+  `;
+
+  const image = `
+  <div class="flex justify-center">
+  <img src="https://trackmania.exchange/mapthumb/${map.tmx}"
+  class="rounded-xl shadow-2xl border border-slate-700 w-[520px]">
+  </div>
+  `;
+
+  const section = document.createElement("section");
+
+  section.className =
+  "max-w-7xl mx-auto px-8 py-20 grid grid-cols-2 gap-16 items-center";
+
+  section.innerHTML = reversed ? image + text : text + image;
+
+  container.appendChild(section);
+
+});
+
+</script>
+
+</body>
+
+</html>
+
+
