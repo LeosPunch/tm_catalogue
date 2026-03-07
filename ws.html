@@ -50,7 +50,9 @@ maps.forEach((map,index)=>{
 
   let subtitle = "Weekly Shorts";
 
-  })
+  if(map.name.startsWith("DF")){
+    subtitle = "ditchfest";
+  }
 
   const text = `
   <div>
@@ -108,6 +110,7 @@ maps.forEach((map,index)=>{
 </body>
 
 </html>
+
 
 
 
