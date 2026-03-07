@@ -46,8 +46,10 @@ maps.forEach((map,index)=>{
 
   const reversed = index % 2 === 1;
 
-  let subtitle = "Mowam shorts";
+  let subtitle = "Mowam map";
 
+  if(map.name.startsWith("DF")){
+    subtitle = "ditchfest";
   }
 
   const text = `
@@ -106,5 +108,6 @@ maps.forEach((map,index)=>{
 </body>
 
 </html>
+
 
 
