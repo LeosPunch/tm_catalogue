@@ -3,19 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leo's Punch Trackmania Catalogue</title>
+<title>Leo's Punch Trackmania Maps</title>
 <script src="https://cdn.tailwindcss.com"></script>
+<script src="maps.js"></script>
 </head>
 
 <body class="bg-slate-950 text-white font-sans">
 
 <header class="border-b border-slate-800">
 <div class="max-w-7xl mx-auto px-8 py-4">
-
 <h1 class="text-xl font-bold tracking-wide">
 Leo`s Punch Trackmania Maps
 </h1>
-
 </div>
 </header>
 
@@ -29,63 +28,25 @@ Leo`s Punch Trackmania Maps
 
 <script>
 
-const categories = [
-
-{
-title:"Ditchfest",
-link:"ditchfest.html",
-image:"https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/large.png"
-},
-
-{
-title:"Weekly Shorts",
-link:"ws.html",
-image:"https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/ws.png"
-},
-
-{
-title:"Mowam Shorts",
-link:"mwms.html",
-image:"https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/mwms.png"
-},
-
-{
-title:"Weekly Wheel",
-link:"ww.html",
-image:"https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/ww.png"
-}
-
-];
-
 const container = document.getElementById("categories");
 
-categories.forEach((cat,index)=>{
+Object.entries(mapData).forEach(([key,data],index)=>{
 
 const reversed = index % 2 === 1;
 
 const text = `
 <div>
-
-<a href="${cat.link}"
-class="text-5xl font-bold hover:text-green-400 transition">
-
-${cat.title}
-
+<a href="maps.html?cat=${key}" class="text-5xl font-bold hover:text-green-400 transition">
+${data.title}
 </a>
-
 </div>
 `;
 
 const image = `
 <div class="flex justify-center">
-
-<a href="${cat.link}">
-
-<img src="${cat.image}"
-class="rounded-xl shadow-2xl border border-slate-700 w-[520px] hover:scale-105 transition">
-
+<a href="maps.html?cat=${key}">
+<img src="${data.image}" class="rounded-xl shadow-2xl w-[520px] hover:scale-105 transition">
 </a>
-
 </div>
 `;
 
@@ -104,6 +65,3 @@ container.appendChild(section);
 
 </body>
 </html>
-
-
-
