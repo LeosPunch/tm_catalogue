@@ -29,7 +29,6 @@ maps: [
 { tmx:280718, uid:"YR4eImvTmLNPHA38xDwIoANsdz3", name:"2 - Foggy Cycling (ft Baogab)" },
 { tmx:280719, uid:"xfVP8s75q1eLRX5vL2wDQGhyUUd", name:"1 - SPOOKY PUMPKINS" },
 { tmx:301088, uid:"JPvbURVT3IgQYfdbGJsBRMROCMc", name:"2 - Colorful Seasons" },
-{ tmx280721:, uid:"_HYKs2jNHoxxZ2IotnFfPco0Bwe", name:"4 - Lime Matcha" },
 { tmx:280722, uid:"Es8NSSNP1rsHBawnTuoVLcLkx8", name:"3 - Hyperlight Owergrowth" },
 { tmx:301089, uid:"TvXtpyL9MmTD8zVwPYSlUvWUFS3", name:"2 - Wrong Way West" },
 { tmx:285180, uid:"Z66BMxiY1W1lxiJN2XAGnnvflx1", name:"5 - MultiFun" },
@@ -54,3 +53,4 @@ maps: [
 
 
 };
+
