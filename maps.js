@@ -28,6 +28,15 @@ maps: [
 { tmx:280715, uid:"Dd7mo2_zCVRRMJ0jEPP6a3FS5_c", name:"1 - Save Our Cows" },
 { tmx:280718, uid:"YR4eImvTmLNPHA38xDwIoANsdz3", name:"2 - Foggy Cycling (ft Baogab)" },
 { tmx:280719, uid:"xfVP8s75q1eLRX5vL2wDQGhyUUd", name:"1 - SPOOKY PUMPKINS" },
+{ tmx:301088, uid:"JPvbURVT3IgQYfdbGJsBRMROCMc", name:"2 - Colorful Seasons" },
+{ tmx280721:, uid:"_HYKs2jNHoxxZ2IotnFfPco0Bwe", name:"4 - Lime Matcha" },
+{ tmx:280722, uid:"Es8NSSNP1rsHBawnTuoVLcLkx8", name:"3 - Hyperlight Owergrowth" },
+{ tmx:301089, uid:"TvXtpyL9MmTD8zVwPYSlUvWUFS3", name:"2 - Wrong Way West" },
+{ tmx:285180, uid:"Z66BMxiY1W1lxiJN2XAGnnvflx1", name:"5 - MultiFun" },
+{ tmx:301091, uid:"Y72lIHYcJ4RcQ4dm2Q3N1U0lqKa", name:"5 - Prehistoric Plastic" },
+{ tmx:301092, uid:"M1T_5bMP3Qdcdz0fVo_G2DVWXpd", name:"4 - Irrigated Canyon" },
+{ tmx:301093, uid:"eCwJ5afMM0d1VrFZNbOag7jKLAe", name:"3 - Go Vacation" },
+{ tmx:301094, uid:"XSjnBT_Hm_Q598vWO2AovgYiBuk", name:"3 - Abandoned Shore" },
 { tmx:280721, uid:"_HYKs2jNHoxxZ2IotnFfPco0Bwe", name:"4 - Lime Matcha" }
 ]
 },
@@ -42,5 +51,6 @@ maps: [
 { tmx:300757, uid:"JA0G9yWZaGbl8yqb1WRAFBUztek", name:"Under Construction" }
 ]
 }
+
 
 };
