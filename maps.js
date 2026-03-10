@@ -49,8 +49,18 @@ maps: [
 { tmx:300756, uid:"JawN8bAjxJarDej34HX2IuYa9B1", name:"map skipped to prevent server crashing" },
 { tmx:300757, uid:"JA0G9yWZaGbl8yqb1WRAFBUztek", name:"Under Construction" }
 ]
+},
+
+jp: {
+title: "Weekly Wheel",
+image: "https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/ww.png",
+maps: [
+{ tmx:300525, uid:"i24UvQH5SFFS7aYiWZOIxtX9dZf", name:"wobbly hell" },
+{ tmx:298979, uid:"U_Fi9_JUVzUCWwxfOFZDlwEIDgf", name:"Weekly Wheel Canyon" }
+]
 }
 
 
 };
+
 
