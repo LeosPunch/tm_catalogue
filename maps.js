@@ -57,7 +57,8 @@ title: "Weekly Wheel",
 image: "https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/ww.png",
 maps: [
 { tmx:300525, uid:"i24UvQH5SFFS7aYiWZOIxtX9dZf", name:"wobbly hell" },
-{ tmx:298979, uid:"U_Fi9_JUVzUCWwxfOFZDlwEIDgf", name:"Weekly Wheel Canyon" }
+{ tmx:298979, uid:"U_Fi9_JUVzUCWwxfOFZDlwEIDgf", name:"Weekly Wheel Canyon" },
+{ tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
 
