@@ -48,6 +48,7 @@ maps: [
 { tmx:300755, uid:"uSljTMy7Bt4u389_PlhxO0me6sa", name:"hidden island" },
 { tmx:300756, uid:"JawN8bAjxJarDej34HX2IuYa9B1", name:"map skipped to prevent server crashing" },
 { tmx:302026, uid:"g2IF9FWrDhwd2KTLyVJGXDSLaQg", name:"Canyon Acrobatic" },
+{ tmx:303494, uid:"fu6RZoRUkT5vcCvliN_HJiU7Rbd", name:"sour currant" },
 { tmx:300757, uid:"JA0G9yWZaGbl8yqb1WRAFBUztek", name:"Under Construction" }
 ]
 },
