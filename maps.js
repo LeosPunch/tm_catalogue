@@ -15,6 +15,7 @@ maps: [
 { tmx:300579, uid:"qIfIUBeM21nyGbY9VUkkHJaAr5", name:"DF 118 - DF118" },
 { tmx:300580, uid:"YQMmgF5GEJWApBZnvAeYk6bqS14", name:"DF118 - 3 - NadeoStyle PuzzleMapping" },
 { tmx:300581, uid:"FA6jNzldki68dRGWdLMHddXDyN6", name:"DF 118 - Grand Enduro" },
+{ tmx:303650, uid:"z5gTx24IkEk0HVRcp4pD4RdHyS7", name:"5Gtowersittingverycomfortablearoundspinnerwithitsitsfriends" },
 { tmx:300582, uid:"TmienlQNmzataanQ9M_4fOZ0_jk", name:"DF118 allmaps allcars allteach allditch" }
 ]
 },
@@ -59,6 +60,7 @@ image: "https://download.dashmap.live/3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138/ww.pn
 maps: [
 { tmx:300525, uid:"i24UvQH5SFFS7aYiWZOIxtX9dZf", name:"wobbly hell" },
 { tmx:298979, uid:"U_Fi9_JUVzUCWwxfOFZDlwEIDgf", name:"Weekly Wheel Canyon" },
+{ tmx:303649, uid:"bdoq5Bqxc9AeWmiLP5UWFF8xvqc", name:"quarter simphony" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
