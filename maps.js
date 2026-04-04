@@ -16,6 +16,7 @@ maps: [
 { tmx:300580, uid:"YQMmgF5GEJWApBZnvAeYk6bqS14", name:"DF118 - 3 - NadeoStyle PuzzleMapping" },
 { tmx:300581, uid:"FA6jNzldki68dRGWdLMHddXDyN6", name:"DF 118 - Grand Enduro" },
 { tmx:303650, uid:"z5gTx24IkEk0HVRcp4pD4RdHyS7", name:"5Gtowersittingverycomfortablearoundspinnerwithitsitsfriends" },
+{ tmx:306815, uid:"fgNMAquG9sh6Jkm0DJgrXsnMIo4", name:"DF120 - THE SIGN" },
 { tmx:300582, uid:"TmienlQNmzataanQ9M_4fOZ0_jk", name:"DF118 allmaps allcars allteach allditch" }
 ]
 },
@@ -50,6 +51,7 @@ maps: [
 { tmx:300756, uid:"JawN8bAjxJarDej34HX2IuYa9B1", name:"map skipped to prevent server crashing" },
 { tmx:302026, uid:"g2IF9FWrDhwd2KTLyVJGXDSLaQg", name:"Canyon Acrobatic" },
 { tmx:303494, uid:"fu6RZoRUkT5vcCvliN_HJiU7Rbd", name:"sour currant" },
+{ tmx:306813, uid:"zKrl38VeTYsJgkBs9WdAYsb0RPa", name:"leftrightleftrightleftrightgo" },
 { tmx:300757, uid:"JA0G9yWZaGbl8yqb1WRAFBUztek", name:"Under Construction" }
 ]
 },
@@ -61,6 +63,7 @@ maps: [
 { tmx:300525, uid:"i24UvQH5SFFS7aYiWZOIxtX9dZf", name:"wobbly hell" },
 { tmx:298979, uid:"U_Fi9_JUVzUCWwxfOFZDlwEIDgf", name:"Weekly Wheel Canyon" },
 { tmx:303649, uid:"bdoq5Bqxc9AeWmiLP5UWFF8xvqc", name:"quarter simphony" },
+{ tmx:306812, uid:"cgSN6wbZVohVVxRViugxuSbWIwh", name:"im stuck in wtmt folder pls help" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
