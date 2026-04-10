@@ -64,6 +64,7 @@ maps: [
 { tmx:298979, uid:"U_Fi9_JUVzUCWwxfOFZDlwEIDgf", name:"Weekly Wheel Canyon" },
 { tmx:303649, uid:"bdoq5Bqxc9AeWmiLP5UWFF8xvqc", name:"quarter simphony" },
 { tmx:306812, uid:"cgSN6wbZVohVVxRViugxuSbWIwh", name:"im stuck in wtmt folder pls help" },
+{ tmx:308372, uid:"LnphZuuYCljGv83QWJ_3Radlxr2", name:"plasty-busty" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
