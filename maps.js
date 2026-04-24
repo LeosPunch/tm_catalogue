@@ -17,6 +17,7 @@ maps: [
 { tmx:300581, uid:"FA6jNzldki68dRGWdLMHddXDyN6", name:"DF 118 - Grand Enduro" },
 { tmx:303650, uid:"z5gTx24IkEk0HVRcp4pD4RdHyS7", name:"5Gtowersittingverycomfortablearoundspinnerwithitsitsfriends" },
 { tmx:306815, uid:"fgNMAquG9sh6Jkm0DJgrXsnMIo4", name:"DF120 - THE SIGN" },
+{ tmx:309841 , uid:"wf_lDTUhImiZfniFzGqw0cGQXv5", name:"Df121 - Трава у дома" },
 { tmx:300582, uid:"TmienlQNmzataanQ9M_4fOZ0_jk", name:"DF118 allmaps allcars allteach allditch" }
 ]
 },
@@ -38,6 +39,7 @@ maps: [
 { tmx:301092, uid:"M1T_5bMP3Qdcdz0fVo_G2DVWXpd", name:"4 - Irrigated Canyon" },
 { tmx:301093, uid:"eCwJ5afMM0d1VrFZNbOag7jKLAe", name:"3 - Go Vacation" },
 { tmx:301094, uid:"XSjnBT_Hm_Q598vWO2AovgYiBuk", name:"3 - Abandoned Shore" },
+{ tmx:311089, uid:"zptw3eVCv8xi_avoVn5iSVzt_p2", name:"4 - Cherry Soda" },
 { tmx:280721, uid:"_HYKs2jNHoxxZ2IotnFfPco0Bwe", name:"4 - Lime Matcha" }
 ]
 },
@@ -65,6 +67,8 @@ maps: [
 { tmx:303649, uid:"bdoq5Bqxc9AeWmiLP5UWFF8xvqc", name:"quarter simphony" },
 { tmx:306812, uid:"cgSN6wbZVohVVxRViugxuSbWIwh", name:"im stuck in wtmt folder pls help" },
 { tmx:308372, uid:"LnphZuuYCljGv83QWJ_3Radlxr2", name:"plasty-busty" },
+{ tmx:311090 , uid:"gI1g4K6cLrqXUMvVhHlMJM2FdQc", name:"Bugslide Paradise" },
+{ tmx:311091 , uid:"gE6nBQ7kUSvykmvtG46fRtRllpg", name:"most normal april day in russia" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
