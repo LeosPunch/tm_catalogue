@@ -18,6 +18,7 @@ maps: [
 { tmx:303650, uid:"z5gTx24IkEk0HVRcp4pD4RdHyS7", name:"5Gtowersittingverycomfortablearoundspinnerwithitsitsfriends" },
 { tmx:306815, uid:"fgNMAquG9sh6Jkm0DJgrXsnMIo4", name:"DF120 - THE SIGN" },
 { tmx:309841 , uid:"wf_lDTUhImiZfniFzGqw0cGQXv5", name:"Df121 - Трава у дома" },
+{ tmx:312699 , uid:"7jwlwQyNX1CEmKCmwUuhrqEPt77", name:"DF122 - Krasnokokshaysk" },
 { tmx:300582, uid:"TmienlQNmzataanQ9M_4fOZ0_jk", name:"DF118 allmaps allcars allteach allditch" }
 ]
 },
@@ -69,6 +70,7 @@ maps: [
 { tmx:308372, uid:"LnphZuuYCljGv83QWJ_3Radlxr2", name:"plasty-busty" },
 { tmx:311090 , uid:"gI1g4K6cLrqXUMvVhHlMJM2FdQc", name:"Bugslide Paradise" },
 { tmx:311091 , uid:"gE6nBQ7kUSvykmvtG46fRtRllpg", name:"most normal april day in russia" },
+{ tmx:312697 , uid:"7KgkILCJbI39qSni4knJkTBaYe4", name:"BumpSleigh" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
