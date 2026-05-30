@@ -20,6 +20,8 @@ maps: [
 { tmx:309841 , uid:"wf_lDTUhImiZfniFzGqw0cGQXv5", name:"Df121 - Трава у дома" },
 { tmx:312699 , uid:"7jwlwQyNX1CEmKCmwUuhrqEPt77", name:"DF122 - Krasnokokshaysk" },
 { tmx:316391 , uid:"X2EPMvmBxaHNdzvyJmFb8uL1kPd", name:"DF123 - A Million Ways To Dich In The Fest" },
+{ tmx:321614 , uid:"boqv2BdPPBqmcn7y5qeXqdnxpAi", name:"DF124 - NIWEVIY IDENTITY" },
+{ tmx:321615 , uid:"OGnNeFE7lCF6ln2X6lHhXk1T53h", name:"DF125 - leo³" },
 { tmx:300582, uid:"TmienlQNmzataanQ9M_4fOZ0_jk", name:"DF118 allmaps allcars allteach allditch" }
 ]
 },
@@ -73,6 +75,8 @@ maps: [
 { tmx:311091 , uid:"gE6nBQ7kUSvykmvtG46fRtRllpg", name:"most normal april day in russia" },
 { tmx:312697 , uid:"7KgkILCJbI39qSni4knJkTBaYe4", name:"BumpSleigh" },
 { tmx:316390 , uid:"esZxIlqr0LngI82ZvWHR5y1RFB9", name:"something b-day" },
+{ tmx:321612 , uid:"pZUJJC1ZOVakv8oDW1jKaT7Ql5j", name:"Snow O'Plastic (ft Delovoy_Lis)" },
+{ tmx:321613 , uid:"lukXyh2dxQvnkloVLp6lIYtPzT3", name:"only 5 mins to cook" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
