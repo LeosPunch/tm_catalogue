@@ -22,6 +22,9 @@ maps: [
 { tmx:316391 , uid:"X2EPMvmBxaHNdzvyJmFb8uL1kPd", name:"DF123 - A Million Ways To Dich In The Fest" },
 { tmx:321614 , uid:"boqv2BdPPBqmcn7y5qeXqdnxpAi", name:"DF124 - NIWEVIY IDENTITY" },
 { tmx:321615 , uid:"OGnNeFE7lCF6ln2X6lHhXk1T53h", name:"DF125 - leo³" },
+{ tmx:332576 , uid:"OSmJ__53YaFFa_fgLlPpUkqGKs9", name:"DF126 - not this way" },
+{ tmx:338429 , uid:"XC4ysCfQnb54Vteahu48Ep9RFoc", name:"DF127 - 14 - Bikini Bugslide" },
+{ tmx:343564 , uid:"cMKZU7BRMuvx8gcpysX9isrhtL7", name:"DF128³ - World Plastic Web" },
 { tmx:300582, uid:"TmienlQNmzataanQ9M_4fOZ0_jk", name:"DF118 allmaps allcars allteach allditch" }
 ]
 },
@@ -44,6 +47,11 @@ maps: [
 { tmx:301093, uid:"eCwJ5afMM0d1VrFZNbOag7jKLAe", name:"3 - Go Vacation" },
 { tmx:301094, uid:"XSjnBT_Hm_Q598vWO2AovgYiBuk", name:"3 - Abandoned Shore" },
 { tmx:311089, uid:"zptw3eVCv8xi_avoVn5iSVzt_p2", name:"4 - Cherry Soda" },
+{ tmx:343567, uid:"CwzoPA7RYpdDn7h2setEM3lzqMm", name:"3 - chilling breeze" },
+{ tmx:343569, uid:"ilKR6jleEUt9GXyqApZQGYMlgN6", name:"2 - car skimming" },
+{ tmx:343571, uid:"vZ4w3zpfZ20jkNf0fOF_XbaDVyh", name:"1 - DF127 Bikini Slide" },
+{ tmx:343565, uid:"ztXLmSeYr1pE_iG3nACJPGS5e7b", name:"2 - Keep the Tree" },
+{ tmx:343566, uid:"BV3p_gOrwnxwYuZUClM_HHj9hU8", name:"2 - Insolation" },
 { tmx:280721, uid:"_HYKs2jNHoxxZ2IotnFfPco0Bwe", name:"4 - Lime Matcha" }
 ]
 },
@@ -77,6 +85,14 @@ maps: [
 { tmx:316390 , uid:"esZxIlqr0LngI82ZvWHR5y1RFB9", name:"something b-day" },
 { tmx:321612 , uid:"pZUJJC1ZOVakv8oDW1jKaT7Ql5j", name:"Snow O'Plastic (ft Delovoy_Lis)" },
 { tmx:321613 , uid:"lukXyh2dxQvnkloVLp6lIYtPzT3", name:"only 5 mins to cook" },
+{ tmx:326766, uid:"RtZkR55PUOoE7jUtEA7nfXq9sD1", name:"whodonit?!" },
+{ tmx:343580, uid:"ycpfmyo4nmVMcoecm_LVfJgUl27", name:"FANTAstic slides" },
+{ tmx:343581, uid:"xd3Mm_HbSZubyZkbPcT2hBIzBFa", name:"Night Tomato Juice" },
+{ tmx:332575, uid:"5eGxuxgsWMlaD3c9ejitCKXeL_f", name:"sea-slide" },
+{ tmx:334884, uid:"fbhydpbjtJ8bCetUyCLyvMOHcy", name:"i have no blocks but i must map" },
+{ tmx:338428, uid:"MMxcPA6zxQRD86qT83hqRzG6dDg", name:"magnice map" },
+{ tmx:343583, uid:"uRa4L9ZNaIHBos5IzaFBxYEEmDm", name:"i forgor how2 map" },
+{ tmx:343563, uid:"W84IrZ8z2BHy0mnb33A7UKGTzhl", name:"[RPG] ELTSAC" },
 { tmx:302092, uid:"NBrqFTvGf8JacR1HutZ8AM4PG3h", name:"Rally Rpg Race" }
 ]
 }
